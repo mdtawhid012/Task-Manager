@@ -23,3 +23,19 @@ This is the backend for a Task Manager application built with **Node.js**, **Exp
 - dotenv
 
 ---
+
+### 🧾 Signup Request (Postman)
+![Register Request](./screenshots/signup.png)
+
+### 🔐 Login Response (Postman)
+![Login Response](./screenshots/signin.png)
+
+### 📥 Add Tasks (Authenticated Request)
+![Get Tasks](./screenshots/create-tasks.png)
+
+### ✏️ Update Task Request (Postman)
+![Update Task](./screenshots/update-task.png)  
+
+### 🗑️ Delete Task Request (Postman)
+![Delete Task](./screenshots/delete-task.png)  
+
