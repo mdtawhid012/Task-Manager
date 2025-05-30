@@ -31,7 +31,7 @@ This is the backend for a Task Manager application built with **Node.js**, **Exp
 ![Login Response](./screenshots/signin.png)
 
 ### 📥 Add Tasks (Authenticated Request)
-![Get Tasks](./screenshots/create-tasks.png)
+![Get Tasks](backend/screenshots/create-task.png)
 
 ### ✏️ Update Task Request (Postman)
 ![Update Task](./screenshots/update-task.png)  
